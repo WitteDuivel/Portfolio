@@ -143,3 +143,4 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
 ]
 CSRF_TRUSTED_ORIGINS = os.getenv("CSRF_TRUSTED_ORIGINS").split(",")
+# MEDIA_ROOT = os.path.join(BASE_DIR, "uploads")

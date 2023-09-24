@@ -148,3 +148,4 @@ migrations/
 staticfiles/
 important notes/
 scratch/
+tailwind*
